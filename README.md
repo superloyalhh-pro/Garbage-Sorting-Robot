@@ -14,3 +14,5 @@
 - 在目标检测和追踪(Object detection & tracking)中，我们从两个层面来阐述垃圾识别分类的原理和方法。目标检测：我们在实际羽毛球场地拍摄垃圾图像并自主贴标签制作训练集训练模型，并用训练出来的模型检测视野内存在的目标垃圾；目标追踪：对视野内的某一目标垃圾进行追踪。
 - 在颜色检测和追踪(Color detection & tracking)中，我们从两个层面来阐述如何识别垃圾堆放区域。颜色检测：用OpenCV来进行单颜色检测进而识别相应的垃圾堆放区域。颜色追踪：对垃圾堆放区域进行追踪。
 - 在自主导航(Navigation)中，利用PID控制实现机器人自主从场地中一点移动到另一点。
+
+![image](https://github.com/superloyalhh-pro/Garbage-Sorting-Robot/blob/main/Project/Robot.jpg)
