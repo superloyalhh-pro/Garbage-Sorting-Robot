@@ -1,6 +1,7 @@
 # Garbage-Sorting-Robot
 #### A robot that recognizes and classifies garbages in the field, independently 
 #### 垃圾分拣车用于自主识别场地的垃圾并将其正确分拣到相应的垃圾堆放区。
+[Youtube Video](https://www.youtube.com/watch?v=QvIk0Ky7gf8)
 #### 小车分为上下两层，上层搭载的是以Jetson Nano为中心的ROS层上位机，下层搭载的是以STM32为中心的下位机。垃圾堆放区不同的颜色代表不同类的垃圾。
 - 蓝色：可回收垃圾
 - 绿色：厨余垃圾
